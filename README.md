@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [Ton Prénom] !
+# 👋 Salut, moi c'est [Baptiste] !
 
 ## 🎓 À propos de moi
 
@@ -14,44 +14,44 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Technologies & Outils
-- **Backend** : Spring Boot, Django, Laravel/Symfony
-- **Bases de données** : MySQL, PostgreSQL, MongoDB
+- **Backend** : Spring Boot, Laravel
+- **Bases de données** : PostgreSQL
 - **Outils** : Git, Docker, VS Code, IntelliJ IDEA
 - **Autres** : API REST, HTML/CSS, JavaScript
 
 ## 🚀 Projets en vedette
 
-### 📌 [Nom du Projet 1](lien-github)
-Brève description du projet - Technologies utilisées : Java, Spring Boot, MySQL
-- Fonctionnalité principale 1
-- Fonctionnalité principale 2
+### 📌 [sheep simulator](lien-github)
+Dans ce projet on devais faire un jeu dans un labyrinthe et voir les différents algorithme de résolution - Technologies utilisées : Java, JavaFX
+- Creer un labyrinthe avec JavaFX
+- Creation d'une IA pour le loup et le mouton pour les résolutions algorithmique 
 
-### 📌 [Nom du Projet 2](lien-github)
-Brève description du projet - Technologies utilisées : Python, Django, PostgreSQL
-- Fonctionnalité principale 1
-- Fonctionnalité principale 2
+### 📌 [Gestion absence](lien-github)
+Dans ce projet nous devions faire un site web pour s'occuper de la gestion d'absence de l'uphf - Technologies utilisées : PHP, PostgreSQL
+- Pouvoir importer des absences depuis un fichier CSV
+- Pouvoir justifier une absence lors que l'on est absent
 
-### 📌 [Nom du Projet 3](lien-github)
-Brève description du projet - Technologies utilisées : PHP, Laravel, MySQL
-- Fonctionnalité principale 1
-- Fonctionnalité principale 2
+### 📌 [Stock corpo](lien-github)
+Creation d'une API REST pour gerer les stocks en temps reel pour les étudiants - Technologies utilisées : Go, PostgreSQL
+- Gestion des stocks 
+- Création de compte utilisateur pour envoie de feedback
 
 ## 📊 Statistiques GitHub
 
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
+![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=baptisteChouraih&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteChouraih&layout=compact&theme=radical)
 
 ## 🎯 Ce que je recherche
 
-- **Type de contrat** : Stage / Alternance
-- **Durée** : [Précise la durée souhaitée]
-- **Début** : [Date de début souhaitée]
+- **Type de contrat** : Stage
+- **Durée** : [8 semaines]
+- **Début** : [13 avril 2026]
 - **Domaines d'intérêt** : Développement web, backend, applications métier, API
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](lien-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/baptiste-chouraih-a97924341)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chouraihbaptiste@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](lien-portfolio)
 
 ---
