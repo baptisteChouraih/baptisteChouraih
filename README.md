@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [Baptiste] !
+# 👋 Salut, moi c'est Baptiste !
 
 ## 🎓 À propos de moi
 
@@ -21,17 +21,17 @@
 
 ## 🚀 Projets en vedette
 
-### 📌 [sheep simulator](lien-github)
+### 📌 [sheep simulator](https://github.com/baptisteChouraih/S2.01)
 Dans ce projet on devais faire un jeu dans un labyrinthe et voir les différents algorithme de résolution - Technologies utilisées : Java, JavaFX
 - Creer un labyrinthe avec JavaFX
 - Creation d'une IA pour le loup et le mouton pour les résolutions algorithmique 
 
-### 📌 [Gestion absence](lien-github)
+### 📌 [Gestion absence](https://github.com/selyanek/SAE301)
 Dans ce projet nous devions faire un site web pour s'occuper de la gestion d'absence de l'uphf - Technologies utilisées : PHP, PostgreSQL
 - Pouvoir importer des absences depuis un fichier CSV
 - Pouvoir justifier une absence lors que l'on est absent
 
-### 📌 [Stock corpo](lien-github)
+### 📌 [Stock corpo](https://github.com/baptisteChouraih/stockCorpo-api)
 Creation d'une API REST pour gerer les stocks en temps reel pour les étudiants - Technologies utilisées : Go, PostgreSQL
 - Gestion des stocks 
 - Création de compte utilisateur pour envoie de feedback
