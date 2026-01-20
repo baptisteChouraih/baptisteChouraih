@@ -2,7 +2,7 @@
 
 ## 🎓 À propos de moi
 
-Étudiant passionné en développement informatique, je suis **à la recherche d'un stage/alternance** pour mettre en pratique mes compétences et continuer à apprendre au sein d'une équipe dynamique.
+Étudiant passionné en développement informatique, je suis **à la recherche d'un stage** pour mettre en pratique mes compétences et continuer à apprendre au sein d'une équipe dynamique.
 
 🎯 **Objectif** : Contribuer à des projets concrets tout en développant mon expertise technique dans un environnement professionnel stimulant.
 
@@ -36,16 +36,11 @@ Creation d'une API REST pour gerer les stocks en temps reel pour les étudiants 
 - Gestion des stocks 
 - Création de compte utilisateur pour envoie de feedback
 
-## 📊 Statistiques GitHub
-
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=baptisteChouraih&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteChouraih&layout=compact&theme=radical)
-
 ## 🎯 Ce que je recherche
 
 - **Type de contrat** : Stage
-- **Durée** : [8 semaines]
-- **Début** : [13 avril 2026]
+- **Durée** : 8 semaines
+- **Début** : 13 avril 2026
 - **Domaines d'intérêt** : Développement web, backend, applications métier, API
 
 ## 📫 Me contacter
